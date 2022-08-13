@@ -1,6 +1,6 @@
 {
-  "name": "@taiwonator/payload-s3-upload",
-  "version": "1.1.2",
+  "name": "modified-payload-s3-upload",
+  "version": "0.1.2",
   "main": "lib/index.js",
   "author": "Jean-Baptiste Martin",
   "dependencies": {
