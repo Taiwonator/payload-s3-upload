@@ -1,5 +1,5 @@
 {
-  "name": "payload-s3-upload",
+  "name": "@taiwonator/payload-s3-upload",
   "version": "1.1.2",
   "main": "lib/index.js",
   "author": "Jean-Baptiste Martin",
@@ -12,5 +12,21 @@
     "eslint": "^7.2.0",
     "eslint-config-airbnb-base": "^14.2.1",
     "eslint-plugin-import": "^2.22.1"
-  }
+  },
+  "description": "This plugin ensures safe filenames with Payload CMS database.   Resized images are properly supported.",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Taiwonator/payload-s3-upload.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Taiwonator/payload-s3-upload/issues"
+  },
+  "homepage": "https://github.com/Taiwonator/payload-s3-upload#readme"
 }
